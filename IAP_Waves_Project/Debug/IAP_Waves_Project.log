@@ -1,0 +1,17 @@
+﻿Build started 18/06/2018 13:43:05.
+     1>Project "C:\Users\Carl J. Ntifo\Documents\Coding\Project\IAP_Waves_Project\IAP_Waves_Project\IAP_Waves_Project.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\IAP_Waves_Project.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         IAP_Waves_Project.vcxproj -> C:\Users\Carl J. Ntifo\Documents\Coding\Project\IAP_Waves_Project\Debug\IAP_Waves_Project.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\IAP_Waves_Project.unsuccessfulbuild".
+         Touching "Debug\IAP_Waves_Project.lastbuildstate".
+     1>Done Building Project "C:\Users\Carl J. Ntifo\Documents\Coding\Project\IAP_Waves_Project\IAP_Waves_Project\IAP_Waves_Project.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.06
