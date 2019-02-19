@@ -16,6 +16,10 @@ Submitted as IAP project for Wilson's School.
 	
 	float wave_dx = (exp(k * b)/ k) * sin(k * (a + c * time));
 	float wave_dy = -(exp(k * b)/ k) * cos(k * (a + c * time));
+	
+## Screenshot
+
+<img src="screenshot_1.png" />
 
 ## How to use?
 1) Run the program's .exe
